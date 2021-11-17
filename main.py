@@ -18,3 +18,5 @@ if __name__ == '__main__':
 print("my name is niv")
 
 print("my brother name is yoav")
+
+print("my sister name is anna")
